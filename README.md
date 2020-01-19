@@ -1,5 +1,5 @@
 # Relay-system-phase-diagram-dynamic
-C#/winForms project for calculating and visualising relay system dynamic on a phase diagram
+C#/winForms project for calculating and visualising relay system dynamic on a phase diagram. IDE - Visual Studio 2017.
 
 Calculation is based on a numeric integration.
 
