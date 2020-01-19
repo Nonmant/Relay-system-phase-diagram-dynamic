@@ -1,0 +1,9 @@
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.point2start.resources
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.5.csproj.GenerateResource.Cache
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Users\Zahar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2.5\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.5.csprojAssemblyReference.cache
